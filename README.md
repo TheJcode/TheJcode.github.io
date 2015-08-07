@@ -1,1 +1,1 @@
-This is a personal website hosted by [GitHub Pagse](http://pages.github.com). 
+This is a personal website hosted by [GitHub Pages](http://pages.github.com). 
