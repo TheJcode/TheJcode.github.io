@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
 ##Hi.##
@@ -14,4 +14,4 @@ I earned my Bachelor's degree at **[George Mason University](https://www.gmu.edu
 
 ##Get in Touch##
 
-Your can find me on **[Github](https://github.com/TheJcode)**, **[LinkedIn](www.linkedin.com/in/JamiGeter)**, **[Twitter](https://twitter.com/Jcode_)** and Gmail(Geter.Jami@).
+Your can find me on **[Github](https://github.com/TheJcode)**, **[LinkedIn](https://www.linkedin.com/in/JamiGeter)**, **[Twitter](https://twitter.com/Jcode_)** and Gmail(Geter.Jami@).
