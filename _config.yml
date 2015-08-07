@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Jami Geter
+tagline:             'cyber security, UI, UX, web design, web developer'
+url:                 http://blog.jamigeter.com
 paginate:            1
 baseurl:             ""
 
@@ -20,14 +20,14 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Jami 
+  url:               https://twitter.com/Jcode_
+
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/TheJcode/TheJcode.github.io
 
 # This is the list of pages to incldue in the header of the website.
 pages_list:       {'About Me':'/about','Archive':'/archive','Feed':'/atom.xml'}
