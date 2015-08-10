@@ -2,7 +2,6 @@
 layout: post
 title: "Why This Style for a Portfolio Site?"
 ---
-###Why This Style for a Portfolio Site?###
 
 For me the answer lies in my goals for the website, the design process and user feedback. Before going forward let me describe the type of user I am. Being upfront and honest I'm a lazy user. I prefer things intuitive, features out in the open, and optimally designed with a story telling experience. Subtleties matter. I don't like to struggle looking for features or need an in depth explanation on how to find things. 
 
