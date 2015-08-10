@@ -4,10 +4,6 @@ title: "Why This Style for a Portfolio Site?"
 ---
 ###Why This Style for a Portfolio Site?###
 
-Why not a website like this?  
-
-or this? 
-
 For me the answer lies in my goals for the website, the design process and user feedback. Before going forward let me describe the type of user I am. Being upfront and honest I'm a lazy user. I prefer things intuitive, features out in the open, and optimally designed with a story telling experience. Subtleties matter. I don't like to struggle looking for features or need an in depth explanation on how to find things. 
 
 Now, how does being a lazy user translate into a great not lazy designer? 
@@ -44,7 +40,7 @@ To answer these questions in design I did sketches.
 
 ####The sketches####
 
-![Sketches for different website layouts](https://github.com/TheJcode/TheJcode.github.io/blob/master/images/wireframesketches.png)
+![Sketches for different website layouts](wireframesketches.png)
 
 As you can see I went through a lot of revisions for this site (and not all of them are up here) before deciding to move forward with coding and a touch of my personality. Every bit of this site has taken into consideration the user's experience to enjoy their time on my portfolio site and learn more about me in the process. 
 
@@ -59,7 +55,7 @@ If you have additional feedback, please reach out to me on gmail(geter.jami@) or
 
 ####Interesting sites to check out for further reading####
 
-**[GoodUI.org](http://goodui.org/)**
-**[UXMyths](http://uxmyths.com/)**
+**[GoodUI](http://goodui.org/)**
 
+**[UXMyths](http://uxmyths.com/)**
 
