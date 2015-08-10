@@ -44,7 +44,7 @@ To answer these questions in design I did sketches.
 
 ####The Sketches####
 
-[Sketches for the site](/images/wireframesketches.png)
+[](/images/wireframesketches.png)
 
 As you can see I went through a lot of revisions for this site (and not all of them are up here) before deciding to move forward with coding and a touch of my personality. Every bit of this site has taken into consideration the user's experience to enjoy their time on my portfolio site and learn more about me in the process. 
 
