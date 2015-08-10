@@ -22,7 +22,7 @@ Develop a site that exist as an insight to my design process and thoughts on var
 Those industries are web development/design, UI/UX and cyber security. With that goal in mind even more questions sprang forth about the design. 
 
 
-####The Questions I asked####
+####The questions I asked####
 These are the questions I asked myself from start to finish at various parts of the design process. 
 
 * What pieces of information should I include on my site?
@@ -42,14 +42,14 @@ These are the questions I asked myself from start to finish at various parts of 
 
 To answer these questions in design I did sketches. 
 
-####The Sketches####
+####The sketches####
 
 ![Sketches for different website layouts](https://github.com/TheJcode/TheJcode.github.io/blob/master/images/wireframesketches.png)
 
 As you can see I went through a lot of revisions for this site (and not all of them are up here) before deciding to move forward with coding and a touch of my personality. Every bit of this site has taken into consideration the user's experience to enjoy their time on my portfolio site and learn more about me in the process. 
 
 
-####The End.####
+####The end.####
 
 My design process can be summed up as define website goal. look at other portfolios. Gather information. Research best current UI & UX practices. Sketch website. Ask questions about the site from a user perspective. redesign. get feedback. redesign. redesign. ask more questions. gather feedback. redesign some more.
 
@@ -59,6 +59,7 @@ If you have additional feedback, please reach out to me on gmail(geter.jami@) or
 
 ####Interesting sites to check out for further reading####
 
-
+**[GoodUI.org](http://goodui.org/)**
+**[UXMyths](http://uxmyths.com/)**
 
 
